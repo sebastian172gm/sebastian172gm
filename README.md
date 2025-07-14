@@ -36,7 +36,7 @@ My ability to work effectively in collaborative and multidisciplinary environmen
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Challenge One</h3>
 <div align="center">
 <a href="https://github.com/sebastian172gm/Challenge-One" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSVeI1a5L-2ElhafygYAQ4Xhfi0A9TQDoUAw&s" width="400" alt="Challenge One"></a>
 <p>
@@ -56,7 +56,7 @@ My ability to work effectively in collaborative and multidisciplinary environmen
 <br>
 <h3 align="center">Statistical's Projects</h3>
 <div align="center">                                       
-<a href="https://github.com/sebastian172gm/statistical-portfolio" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Proyectos de estadistica"></a>
+<a href="https://github.com/sebastian172gm/statistical-portfolio" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSck6hq9ErH0bgosv1zEEPeTF2DRFR_S0cgaw&s" width="400" alt="Proyectos de estadistica"></a>
 <br>
 <p>
 <a href="https://github.com/sebastian172gm/statistical-portfolio" target="_blank">
@@ -66,7 +66,7 @@ My ability to work effectively in collaborative and multidisciplinary environmen
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p> Durante mi  <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p> Durante mi  Carrera dentro de la<strong>Universidad Ecci</strong> desarrolle varios proyectos orientados al estudio de los datos en varios sectores, aqui veras algunos de mis proyetos mas relevantes.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
