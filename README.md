@@ -38,7 +38,7 @@ My ability to work effectively in collaborative and multidisciplinary environmen
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/sebastian172gm/Challenge-One" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Challenge One"></a>
+<a href="https://github.com/sebastian172gm/Challenge-One" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSVeI1a5L-2ElhafygYAQ4Xhfi0A9TQDoUAw&s" width="400" alt="Challenge One"></a>
 <p>
 <a href="https://github.com/sebastian172gm/Challenge-One" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
