@@ -56,7 +56,7 @@ My ability to work effectively in collaborative and multidisciplinary environmen
 <br>
 <h3 align="center">Statistical's Projects</h3>
 <div align="center">                                       
-<a href="https://github.com/sebastian172gm/statistical-portfolio" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSck6hq9ErH0bgosv1zEEPeTF2DRFR_S0cgaw&s" width="400" alt="Proyectos de estadistica"></a>
+<a href="https://github.com/sebastian172gm/statistical-portfolio" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8ctqQzKMjW4JFdJAW-4FmaLivKE8Jx2AjQ&s" width="400" alt="Proyectos de estadistica"></a>
 <br>
 <p>
 <a href="https://github.com/sebastian172gm/statistical-portfolio" target="_blank">
