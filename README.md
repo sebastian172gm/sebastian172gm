@@ -66,7 +66,7 @@ My ability to work effectively in collaborative and multidisciplinary environmen
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p> Durante mi  Carrera dentro de la<strong>Universidad Ecci</strong> desarrolle varios proyectos orientados al estudio de los datos en varios sectores, aqui veras algunos de mis proyetos mas relevantes.</p>
+</p> Durante mi  Carrera dentro de la <strong>Universidad Ecci</strong> desarrolle varios proyectos orientados al estudio de los datos en varios sectores, aqui veras algunos de mis proyetos mas relevantes.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
